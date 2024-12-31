@@ -1,0 +1,39 @@
+h1{
+    font-family: "Sixtyfour", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0;
+      font-size: 3rem;
+    text-shadow: 5px 0px #232931;
+}
+
+
+* {
+    color: #4ECCA3;
+    background-color: #393E46;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.top-container{
+    padding-bottom: 50px;
+}
+.middle-container div{
+    display: inline-block;
+    padding-bottom: 100px;
+}
+.img1{
+    padding-right: 50px;
+    
+}
+footer a{
+    text-decoration: none;
+    color: #EEEEEE;
+    font-size: 1rem;
+}
